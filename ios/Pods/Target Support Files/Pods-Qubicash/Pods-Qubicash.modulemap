@@ -1,0 +1,6 @@
+module Pods_Qubicash {
+  umbrella header "Pods-Qubicash-umbrella.h"
+
+  export *
+  module * { export * }
+}
